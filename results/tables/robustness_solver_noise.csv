@@ -1,0 +1,3 @@
+method,solver_on_time_std_mean,solver_on_time_std_max,solver_dist_std_km_mean,solver_dist_std_km_max,n_day_reps
+B0_deterministic,0.0002406435444444444,0.000470682,0.44174258057777777,3.7565942022,9
+B1_global_robust,0.00012715450000000002,0.0004224258,0.20292692237777776,1.3881642554,9

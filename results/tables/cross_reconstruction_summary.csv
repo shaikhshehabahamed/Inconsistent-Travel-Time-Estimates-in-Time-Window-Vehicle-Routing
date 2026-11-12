@@ -1,0 +1,3 @@
+method,cross_recon_on_time_mean,cross_recon_on_time_std,n_folds
+B0_deterministic,0.9684692380072745,0.014578947874824598,9
+B1_global_robust,0.9966857254382947,0.006850173753948619,9

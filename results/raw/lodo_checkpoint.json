@@ -1,0 +1,301 @@
+{
+  "folds": {
+    "1": {
+      "held_out_day": 1,
+      "results": {
+        "B0_deterministic": {
+          "method": "B0_deterministic",
+          "on_time_rate": 0.9647948717948718,
+          "route_on_time_rate": 0.40045,
+          "mean_lateness_min": 0.37730259256965254,
+          "distance_km": 274.2,
+          "n_vehicles": 4,
+          "solve_status": "OK",
+          "cross_recon": null,
+          "hyperparams": {
+            "z": 0.0
+          }
+        },
+        "B1_global_robust": {
+          "method": "B1_global_robust",
+          "on_time_rate": 0.9926794871794872,
+          "route_on_time_rate": 0.85775,
+          "mean_lateness_min": 0.04084336738597062,
+          "distance_km": 263.9,
+          "n_vehicles": 4,
+          "solve_status": "OK",
+          "cross_recon": null,
+          "hyperparams": {
+            "z": 1.0
+          }
+        }
+      },
+      "tuning_seconds": 32.44947052001953,
+      "eval_seconds": 41.52745032310486
+    },
+    "2": {
+      "held_out_day": 2,
+      "results": {
+        "B0_deterministic": {
+          "method": "B0_deterministic",
+          "on_time_rate": 0.9408984126984127,
+          "route_on_time_rate": 0.6864,
+          "mean_lateness_min": 1.0152154133144264,
+          "distance_km": 298.2,
+          "n_vehicles": 4,
+          "solve_status": "OK",
+          "cross_recon": null,
+          "hyperparams": {
+            "z": 0.0
+          }
+        },
+        "B1_global_robust": {
+          "method": "B1_global_robust",
+          "on_time_rate": 0.997415873015873,
+          "route_on_time_rate": 0.96455,
+          "mean_lateness_min": 0.007221802450204593,
+          "distance_km": 301.9,
+          "n_vehicles": 4,
+          "solve_status": "OK",
+          "cross_recon": null,
+          "hyperparams": {
+            "z": 2.0
+          }
+        }
+      },
+      "tuning_seconds": 32.717341899871826,
+      "eval_seconds": 41.220112323760986
+    },
+    "3": {
+      "held_out_day": 3,
+      "results": {
+        "B0_deterministic": {
+          "method": "B0_deterministic",
+          "on_time_rate": 0.968089552238806,
+          "route_on_time_rate": 0.6281333333333333,
+          "mean_lateness_min": 0.26373169268912866,
+          "distance_km": 263.4,
+          "n_vehicles": 3,
+          "solve_status": "OK",
+          "cross_recon": null,
+          "hyperparams": {
+            "z": 0.0
+          }
+        },
+        "B1_global_robust": {
+          "method": "B1_global_robust",
+          "on_time_rate": 0.9999611940298507,
+          "route_on_time_rate": 0.9994000000000001,
+          "mean_lateness_min": 9.866886735579053e-05,
+          "distance_km": 296.6,
+          "n_vehicles": 4,
+          "solve_status": "OK",
+          "cross_recon": null,
+          "hyperparams": {
+            "z": 2.0
+          }
+        }
+      },
+      "tuning_seconds": 29.030193328857422,
+      "eval_seconds": 41.39511585235596
+    },
+    "4": {
+      "held_out_day": 4,
+      "results": {
+        "B0_deterministic": {
+          "method": "B0_deterministic",
+          "on_time_rate": 0.9702434782608695,
+          "route_on_time_rate": 0.5695499999999999,
+          "mean_lateness_min": 0.23189315245635364,
+          "distance_km": 298.6,
+          "n_vehicles": 4,
+          "solve_status": "OK",
+          "cross_recon": null,
+          "hyperparams": {
+            "z": 0.0
+          }
+        },
+        "B1_global_robust": {
+          "method": "B1_global_robust",
+          "on_time_rate": 0.9998347826086956,
+          "route_on_time_rate": 0.9972,
+          "mean_lateness_min": 0.0003738161085190563,
+          "distance_km": 301.6,
+          "n_vehicles": 4,
+          "solve_status": "OK",
+          "cross_recon": null,
+          "hyperparams": {
+            "z": 2.0
+          }
+        }
+      },
+      "tuning_seconds": 28.906392335891724,
+      "eval_seconds": 41.38490152359009
+    },
+    "5": {
+      "held_out_day": 5,
+      "results": {
+        "B0_deterministic": {
+          "method": "B0_deterministic",
+          "on_time_rate": 0.9814586666666667,
+          "route_on_time_rate": 0.65255,
+          "mean_lateness_min": 0.11148747949115986,
+          "distance_km": 297.4,
+          "n_vehicles": 4,
+          "solve_status": "OK",
+          "cross_recon": null,
+          "hyperparams": {
+            "z": 0.0
+          }
+        },
+        "B1_global_robust": {
+          "method": "B1_global_robust",
+          "on_time_rate": 0.997376,
+          "route_on_time_rate": 0.95085,
+          "mean_lateness_min": 0.00713129410635024,
+          "distance_km": 305.59999999999997,
+          "n_vehicles": 4,
+          "solve_status": "OK",
+          "cross_recon": null,
+          "hyperparams": {
+            "z": 1.5
+          }
+        }
+      },
+      "tuning_seconds": 28.924558401107788,
+      "eval_seconds": 41.585726737976074
+    },
+    "6": {
+      "held_out_day": 6,
+      "results": {
+        "B0_deterministic": {
+          "method": "B0_deterministic",
+          "on_time_rate": 0.963825974025974,
+          "route_on_time_rate": 0.69565,
+          "mean_lateness_min": 0.3017722570760901,
+          "distance_km": 266.0,
+          "n_vehicles": 4,
+          "solve_status": "OK",
+          "cross_recon": null,
+          "hyperparams": {
+            "z": 0.0
+          }
+        },
+        "B1_global_robust": {
+          "method": "B1_global_robust",
+          "on_time_rate": 0.9999324675324676,
+          "route_on_time_rate": 0.999,
+          "mean_lateness_min": 0.00010314604423318319,
+          "distance_km": 273.9,
+          "n_vehicles": 4,
+          "solve_status": "OK",
+          "cross_recon": null,
+          "hyperparams": {
+            "z": 2.0
+          }
+        }
+      },
+      "tuning_seconds": 29.0048885345459,
+      "eval_seconds": 41.75147247314453
+    },
+    "7": {
+      "held_out_day": 7,
+      "results": {
+        "B0_deterministic": {
+          "method": "B0_deterministic",
+          "on_time_rate": 0.9694,
+          "route_on_time_rate": 0.5971,
+          "mean_lateness_min": 0.2566433823664726,
+          "distance_km": 278.5,
+          "n_vehicles": 4,
+          "solve_status": "OK",
+          "cross_recon": null,
+          "hyperparams": {
+            "z": 0.0
+          }
+        },
+        "B1_global_robust": {
+          "method": "B1_global_robust",
+          "on_time_rate": 0.9790727272727273,
+          "route_on_time_rate": 0.6914000000000001,
+          "mean_lateness_min": 0.11089574285383808,
+          "distance_km": 244.7,
+          "n_vehicles": 3,
+          "solve_status": "OK",
+          "cross_recon": null,
+          "hyperparams": {
+            "z": 1.0
+          }
+        }
+      },
+      "tuning_seconds": 28.94966697692871,
+      "eval_seconds": 41.38112807273865
+    },
+    "8": {
+      "held_out_day": 8,
+      "results": {
+        "B0_deterministic": {
+          "method": "B0_deterministic",
+          "on_time_rate": 0.9798027027027028,
+          "route_on_time_rate": 0.63975,
+          "mean_lateness_min": 0.12034097975398035,
+          "distance_km": 297.0,
+          "n_vehicles": 4,
+          "solve_status": "OK",
+          "cross_recon": null,
+          "hyperparams": {
+            "z": 0.0
+          }
+        },
+        "B1_global_robust": {
+          "method": "B1_global_robust",
+          "on_time_rate": 0.9999729729729729,
+          "route_on_time_rate": 0.9995,
+          "mean_lateness_min": 1.9723250265243405e-05,
+          "distance_km": 313.79999999999995,
+          "n_vehicles": 4,
+          "solve_status": "OK",
+          "cross_recon": null,
+          "hyperparams": {
+            "z": 2.5
+          }
+        }
+      },
+      "tuning_seconds": 29.42018723487854,
+      "eval_seconds": 41.37955689430237
+    },
+    "9": {
+      "held_out_day": 9,
+      "results": {
+        "B0_deterministic": {
+          "method": "B0_deterministic",
+          "on_time_rate": 0.9883714285714286,
+          "route_on_time_rate": 0.8046399999999998,
+          "mean_lateness_min": 0.05978978463127354,
+          "distance_km": 342.09999999999997,
+          "n_vehicles": 5,
+          "solve_status": "OK",
+          "cross_recon": null,
+          "hyperparams": {
+            "z": 0.0
+          }
+        },
+        "B1_global_robust": {
+          "method": "B1_global_robust",
+          "on_time_rate": 0.9972547619047619,
+          "route_on_time_rate": 0.9538800000000001,
+          "mean_lateness_min": 0.006168377083614132,
+          "distance_km": 342.8,
+          "n_vehicles": 5,
+          "solve_status": "OK",
+          "cross_recon": null,
+          "hyperparams": {
+            "z": 1.0
+          }
+        }
+      },
+      "tuning_seconds": 28.91418957710266,
+      "eval_seconds": 42.23441791534424
+    }
+  }
+}

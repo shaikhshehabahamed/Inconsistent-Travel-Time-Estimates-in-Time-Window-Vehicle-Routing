@@ -1,0 +1,3 @@
+baseline,metric,n,mean_diff,ci_lower,ci_upper,wilcoxon_stat,p_value,p_value_corrected,rank_biserial,reject_null
+B0_deterministic,on_time_rate,9,0.02629057550634491,0.01758826104469713,0.035872694047476686,0.0,0.00390625,0.00390625,1.0,True
+B0_deterministic,distance_km,9,3.266666666666664,-8.566666666666675,14.10000000000001,15.0,0.42578125,0.42578125,0.3333333333333333,False

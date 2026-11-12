@@ -1,0 +1,86 @@
+{
+  "capacity": [
+    {
+      "capacity_multiplier": 0.95,
+      "B1": {
+        "z": 2.0,
+        "on_time_rate": 0.9995432739183231,
+        "distance_km": 304.9111111111111
+      }
+    },
+    {
+      "capacity_multiplier": 1.0,
+      "B1": {
+        "z": 2.0,
+        "on_time_rate": 0.9994699340484196,
+        "distance_km": 304.72222222222223
+      }
+    },
+    {
+      "capacity_multiplier": 1.1,
+      "B1": {
+        "z": 2.0,
+        "on_time_rate": 0.9996898625268789,
+        "distance_km": 307.94444444444446
+      }
+    },
+    {
+      "capacity_multiplier": 1.25,
+      "B1": {
+        "z": 2.0,
+        "on_time_rate": 0.9998274379249482,
+        "distance_km": 301.14444444444445
+      }
+    },
+    {
+      "capacity_multiplier": 1.4,
+      "B1": {
+        "z": 2.0,
+        "on_time_rate": 0.9986923590923418,
+        "distance_km": 299.48888888888894
+      }
+    },
+    {
+      "capacity_multiplier": 1.6,
+      "B1": {
+        "z": 2.0,
+        "on_time_rate": 0.9956711041488329,
+        "distance_km": 298.06666666666666
+      }
+    }
+  ],
+  "service_target": [
+    {
+      "target": 0.98,
+      "B1": {
+        "z": 0.5,
+        "on_time_rate": 0.9853205386119489,
+        "distance_km": 304.91111111111115
+      }
+    },
+    {
+      "target": 0.99,
+      "B1": {
+        "z": 2.5,
+        "on_time_rate": 0.9998665643929326,
+        "distance_km": 314.56666666666666
+      }
+    },
+    {
+      "target": 0.995,
+      "B1": {
+        "z": 1.5,
+        "on_time_rate": 0.99742318639298,
+        "distance_km": 306.9555555555556
+      }
+    },
+    {
+      "target": 0.999,
+      "B1": {
+        "z": 1.0,
+        "on_time_rate": 0.9864003964087092,
+        "distance_km": 294.65555555555557
+      }
+    }
+  ]
+}

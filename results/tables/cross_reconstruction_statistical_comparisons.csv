@@ -1,0 +1,2 @@
+baseline,metric,n,mean_diff,ci_lower,ci_upper,wilcoxon_stat,p_value,p_value_corrected,rank_biserial,reject_null
+B0_deterministic,cross_recon_mean_on_time_rate,9,0.02821648743102027,0.020776560667566942,0.03694897924190679,0.0,0.00390625,0.00390625,1.0,True
